@@ -9,7 +9,18 @@ Additionally, a voice-assisted AidBot provides instant first aid and emergency i
 
 ## App Screenshots
 
-![image](https://github.com/user-attachments/assets/6152152e-ab04-4f9a-b27a-22fcfd02f9dc)
+![WhatsApp Image 2025-02-12 at 23 01 08_2997bece](https://github.com/user-attachments/assets/979a0621-5529-48b2-a36b-4a0fba3ac07d)
+
+Flowchart =>
+![WhatsApp Image 2025-02-12 at 23 01 08_756579ce](https://github.com/user-attachments/assets/67e3e440-c52c-4ed7-8408-c614984186de)
+
+SNAPSHOTS =>
+![WhatsApp Image 2025-02-12 at 23 01 07_970d0e04](https://github.com/user-attachments/assets/79077fc9-0684-48c6-83fa-4c2efaa628e2)
+![WhatsApp Image 2025-02-12 at 23 01 06_40225811](https://github.com/user-attachments/assets/23468028-5ae8-449d-a7ca-3836c1cd3ac9)
+![WhatsApp Image 2025-02-12 at 23 01 06_d8f99347](https://github.com/user-attachments/assets/41856146-50c3-4ff2-abc6-4a16d4fc72d5)
+![WhatsApp Image 2025-02-12 at 23 01 05_ee93d6ce](https://github.com/user-attachments/assets/7d8ce0bd-3408-4f3c-9ca4-76f282bd2ccd)
+![WhatsApp Image 2025-02-12 at 23 01 05_06b283bb](https://github.com/user-attachments/assets/ddcac92e-fea3-4124-b8ab-ff2b711afbff)
+
 
 
 ## Features
