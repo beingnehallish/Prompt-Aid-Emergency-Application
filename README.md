@@ -49,14 +49,6 @@ Prompt Aid is a mobile application designed to provide quick and easy access to 
 3. Tap on an emergency service to make a call or send an SMS with your location.
 4. Interact with the AidBot for first-aid instructions and emergency guidance.
 
-## Screenshots
-(Include relevant images of the app interface here)
-
-## Contributors
-- [Your Name]
-- [Team Member 1]
-- [Team Member 2]
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
