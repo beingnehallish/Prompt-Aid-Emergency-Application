@@ -1,11 +1,65 @@
-# Prompt-Aid-Emergency-Application
-Prompt Aid is a mobile application designed to provide fast and easy access to emergency services in critical situations.
+# Prompt Aid
 
-1.   It allows users to quickly contact authorities such as the police, ambulance, traffic police, woman helplines, and more, with just a tap. The app automatically dials the relevant emergency number and sends an SMS with the user's current location, ensuring help arrives quickly.
-2.   It also includes a profile page where users can store important personal and medical information like their name, address, blood group, and any important medical history emergency contacts.
-3.   Additionally, a voice-assisted AidBot, provides instant first aid and emergency information through both speech and text. The app uses real-time location tracking to ensure accurate help and stores all necessary data locally for easy access even when offline.
+## Overview
+Prompt Aid is a mobile application designed to provide quick and easy access to emergency services in critical situations. The app allows users to contact emergency authorities such as the police, ambulance, traffic police, and helplines with just a tap. It also features a voice-assisted chatbot (AidBot) to provide first aid guidance and emergency information.
 
-With a user-friendly interface and useful features like voice interaction, aims to make emergency assistance more accessible and efficient, providing users with peace of mind when they need it the most. In times of crisis, quick and effective assistance can make all the difference.
+## Features
+- **Emergency Contacts:** One-tap access to emergency services.
+- **Real-Time Location Tracking:** Sends the user’s location via SMS for quick assistance.
+- **User Profile:** Stores essential medical and personal information for emergencies.
+- **Offline Support:** Stores necessary data locally for access even without an internet connection.
+- **Voice-Assisted Chatbot (AidBot):** Provides instant emergency guidance via speech and text.
+- **User-Friendly Interface:** Simple and intuitive design for fast navigation.
+
+## Tech Stack
+- **Frontend:** Flutter, Dart
+- **Backend:** Python (Flask, FastAPI)
+- **Database:** SQLite, Firebase
+- **Other Tools:** REST API, Google Maps API, Visual Studio Code, Android Emulators
+
+## Installation
+### Prerequisites
+- Flutter SDK installed
+- Dart installed
+- Python (for backend) installed
+- Android Emulator or a physical device for testing
+
+### Steps
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-repo/prompt-aid.git
+   cd prompt-aid
+   ```
+
+2. **Run the Flutter app**
+   ```bash
+   flutter pub get
+   flutter run
+   ```
+
+3. **Run the backend server**
+   ```bash
+   cd backend-server
+   python app.py
+   ```
+
+## Usage
+1. Open the app and create a user profile.
+2. Use the navigation bar to access emergency contacts, chatbot, and profile settings.
+3. Tap on an emergency service to make a call or send an SMS with your location.
+4. Interact with the AidBot for first-aid instructions and emergency guidance.
+
+## Screenshots
+(Include relevant images of the app interface here)
+
+## Contributors
+- [Your Name]
+- [Team Member 1]
+- [Team Member 2]
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ![WhatsApp Image 2025-02-12 at 23 01 08_2997bece](https://github.com/user-attachments/assets/979a0621-5529-48b2-a36b-4a0fba3ac07d)
 
