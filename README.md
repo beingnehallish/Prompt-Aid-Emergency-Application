@@ -9,16 +9,8 @@ Additionally, a voice-assisted AidBot provides instant first aid and emergency i
 
 ## App Screenshots
 
-<div align="center">
-  <img src="/api/placeholder/250/500" alt="Emergency Services Screen" />
-  <p><em>Emergency Services Dashboard with Quick Access Buttons</em></p>
+![image](https://github.com/user-attachments/assets/6152152e-ab04-4f9a-b27a-22fcfd02f9dc)
 
-  <img src="/api/placeholder/250/500" alt="AidBot Interface" />
-  <p><em>AI-Powered AidBot Providing Emergency Guidance</em></p>
-
-  <img src="/api/placeholder/250/500" alt="User Profile" />
-  <p><em>User Profile for Storing Medical Information</em></p>
-</div>
 
 ## Features
 
